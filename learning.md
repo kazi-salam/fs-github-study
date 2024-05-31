@@ -1,4 +1,4 @@
-# Learned Today
+# Git and GitHub
 
 1. Introduction to GitHub
 
@@ -9,3 +9,14 @@
 
 2. Gitignore
 3. Readme.md
+
+# Git and GitHub
+
+## 31/05/2024
+
+- how to create issues
+- branch and merging
+- resolve merge conflict
+- collaboration
+- contribution
+- github pages
